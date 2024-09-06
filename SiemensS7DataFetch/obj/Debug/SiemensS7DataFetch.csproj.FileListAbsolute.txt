@@ -1,0 +1,13 @@
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\bin\Debug\SiemensS7DataFetch.exe.config
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\bin\Debug\SiemensS7DataFetch.exe
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\bin\Debug\SiemensS7DataFetch.pdb
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\bin\Debug\Sharp7.dll
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\bin\Debug\Sharp7.pdb
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.csproj.AssemblyReference.cache
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.Properties.Resources.resources
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.csproj.GenerateResource.cache
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.csproj.CoreCompileInputs.cache
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.csproj.CopyComplete
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.exe
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.pdb
+C:\Users\enes.aslan\source\repos\SiemensS7DataFetch\SiemensS7DataFetch\obj\Debug\SiemensS7DataFetch.Form1.resources
